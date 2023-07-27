@@ -2,6 +2,10 @@ body {
     font-size: 20px;
 }
 
+h1{
+    text-align: center;
+
+
 .img_box{
     width: 100%;
 }
@@ -13,4 +17,5 @@ h1{
 
 img{
     width: 100%;
+
 }
